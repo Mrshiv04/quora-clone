@@ -1,0 +1,60 @@
+.feedArticle {
+	margin-top: 20px;
+	background-color: #262626;
+	margin-left: auto;
+	margin-right: auto;
+	width: 95%;
+	cursor: pointer;
+	border-radius: 4px;
+}
+
+.feedArticle:hover {
+	background-color: #2b2b2b;
+}
+
+.avatar {
+	/* margin-top: 10px; */
+}
+.cancel {
+	color: grey !important;
+	font-size: medium;
+	margin-left: 68%;
+}
+
+.heading {
+	padding-left: 10px;
+	color: #cdcdcd;
+}
+
+.articleImage {
+	width: 98%;
+	margin-top: 10px;
+}
+
+.upvote {
+	margin-left: 20px;
+	margin-top: 10px;
+	padding: 0px 15px;
+	background-color: #424242;
+	border-radius: 20px;
+	display: flex;
+	align-items: center;
+}
+
+.upvoteIcon {
+	color: grey !important;
+	font-size: large;
+}
+
+.upvoteIcon1 {
+	color: #4894fd !important;
+	font-size: large;
+}
+
+.share {
+	margin-left: 120% !important;
+}
+
+.moreOption {
+	margin-left: 5% !important;
+}

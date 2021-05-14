@@ -1,0 +1,39 @@
+.leftFeed {
+	background-color: #181818;
+	flex: 0.2;
+	color: gray;
+	padding-top: 25px;
+}
+
+.leftFeed > p {
+	font-size: 13px;
+}
+
+.leftFeed > hr {
+	color: gray;
+	width: 50%;
+	margin-left: 100px;
+	height: 1px;
+	border-width: 0px;
+	background-color: grey;
+	margin-top: 10px;
+}
+
+.leftFeed-option {
+	margin-left: 110px;
+	padding: 13px;
+	cursor: pointer;
+	display: flex;
+	align-items: center;
+	border-radius: 10px;
+}
+
+.avatar-style {
+	width: 20px !important;
+	height: 20px !important;
+	margin-right: 10px;
+}
+
+.leftFeed-option:hover {
+	background-color: #1f1f1f;
+}
