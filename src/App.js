@@ -8,7 +8,6 @@ function App() {
 	return (
 		<div className='App'>
 			<Header />
-			<h1>hello</h1>
 			<div style={{ display: 'flex' }}>
 				<LeftFeed />
 				<Feed />
